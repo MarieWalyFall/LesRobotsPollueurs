@@ -21,7 +21,7 @@ public class PollueurToutDroit extends Robotpollueur {
     }
 
     /**
-     * Parcourt la colonne specifiee du monde en se deplaçant tout droit et pollue les cases rencontrees.
+     * Parcourt la colonne specifiee du monde en se deplacant tout droit et pollue les cases rencontrees.
      */
     public void parcourir() {
         for(int i = 0; i < m.nbL; i++) {

@@ -30,10 +30,10 @@ public class Monde {
     }
     
     /**
-     * Retourne une chaîne de caracteres decrivant le monde.
+     * Retourne une chaine de caracteres decrivant le monde.
      * Utilise "o" pour representer vrai et "." pour representer faux.
      *
-     * @return La representation en chaîne de caracteres du monde
+     * @return La representation en chaine de caracteres du monde
      */
     public String toString() {
         StringBuilder chaine = new StringBuilder(); 

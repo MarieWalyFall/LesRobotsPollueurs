@@ -31,7 +31,7 @@ public class TestRobots {
         System.out.println("\n\n\n");
 
 
-        // Test de la classe PollueurToutDroit
+        //Test de la classe PollueurToutDroit
         System.out.println("+----------------------------+");
         System.out.println("| CLASSE : PollueurToutDroit |");
         System.out.println("+----------------------------+\n");
@@ -67,24 +67,24 @@ public class TestRobots {
         System.out.println("Affichons d'abord la matrice ");
         System.out.println(monde.toString());
         RobotNettoyeur robNettoyeur = new RobotNettoyeur(monde);
-        System.out.println("La matrice après nettoyage ");
+        System.out.println("La matrice apres nettoyage ");
         robNettoyeur.parcourir();
         System.out.println(monde.toString());
         System.out.println("\n\n\n");
 
 
-        // Test de la classe NettoyeurDistrait
+        //Test de la classe NettoyeurDistrait
         System.out.println("+----------------------------+");
         System.out.println("| CLASSE : NettoyeurDistrait |");
         System.out.println("+----------------------------+\n");
 
-        // Creation et test d'un NettoyeurDistrait
+        //Creation et test d'un NettoyeurDistrait
         System.out.println("Testons la methode parcourir : ");
         System.out.println("Affichons d'abord la matrice ");
         p.parcourir();
         System.out.println(monde.toString());
         NettoyeurDistrait netDistrait = new NettoyeurDistrait(monde);
-        System.out.println("La matrice après nettoyage ");
+        System.out.println("La matrice apres nettoyage ");
         netDistrait.parcourir();
         System.out.println(monde.toString());
         System.out.println("\n\n\n");

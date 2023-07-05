@@ -28,7 +28,7 @@ public class RobotNettoyeur extends Robot {
     }
 
     /**
-     * Parcourt le monde en se deplaçant de maniere specifique et nettoie les cases sales.
+     * Parcourt le monde en se deplacant de maniere specifique et nettoie les cases sales.
      */
     public void parcourir() {
         for(int i = 0; i < m.nbL; i++) {
