@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.20)  5 JUL 2023 02:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.20)  6 JUL 2023 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -805,15 +805,15 @@ Package rerunfilecheck Info: File `rapport_groupe1O.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16023 strings out of 476339
- 255254 string characters out of 5789535
+ 16025 strings out of 476339
+ 255277 string characters out of 5789535
  2059340 words of memory out of 5000000
- 35543 multiletter control sequences out of 15000+600000
- 548968 words of font info for 54 fonts, out of 8000000 for 9000
+ 35544 multiletter control sequences out of 15000+600000
+ 549287 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,76p,1207b,2100s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{
-C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/User
+{C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
+sers/HP/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/User
 s/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/H
 P/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/HP/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/HP/AppDa
@@ -821,11 +821,12 @@ ta/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/HP/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/HP/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/HP/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/HP/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/HP/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/lm/lmtti10.pfb>
-Output written on rapport_groupe1O.pdf (18 pages, 610103 bytes).
+s/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/HP/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/HP/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/lm/lmtti10.pfb>
+Output written on rapport_groupe1O.pdf (18 pages, 636399 bytes).
 PDF statistics:
- 899 PDF objects out of 1000 (max. 8388607)
+ 905 PDF objects out of 1000 (max. 8388607)
  629 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
